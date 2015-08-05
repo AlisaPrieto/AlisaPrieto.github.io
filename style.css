@@ -9,7 +9,9 @@ body {
   
  nav a{
     color: #FFF;
-    decoration: none;
+    text-decoration: none;
+    background-color:#000;
+    padding:5px;
  }
  
  nav a:visited{
