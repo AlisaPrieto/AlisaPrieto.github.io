@@ -7,5 +7,12 @@ body {
    font-family: PlayfairDisplay, sans-serif;
   }
   
+ nav a{
+    color: #FFF;
+    decoration: none;
+ }
  
+ nav a:visited{
+    color: #FFF;
+ }
 
