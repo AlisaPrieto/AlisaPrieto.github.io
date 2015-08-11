@@ -17,4 +17,9 @@ body {
  nav a:visited{
     color: #FFF;
  }
+ 
+ 
+iframe {
+  background-color: white;
+}
 
