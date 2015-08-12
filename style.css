@@ -41,37 +41,4 @@ nav a{
 nav a:visited{
   color: #FFF;
 }
- a: hover {
-  background-image:
-   -webkit-linear-gradient(bottom, lawnGreen, greenYellow);
-background-image:
-   -moz-linear-gradient(bottom, lawnGreen, greenYellow);
-background-image:
-   -o-linear-gradient(bottom, lawnGreen, greenYellow));
-background-image:
-   linear-gradient(to top, lawnGreen, greenYellow));
-}
-
-/* sets base style for each page */
-html {
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
-
-/* set background image per page */
-.index-bg {
-background: url(https://pp.vk.me/c622123/v622123206/45190/mm0YSE9sFZA.jpg) no-repeat center center fixed;
-}
-.about-bg {
-
-.contact-bg {
-background: url(http://40.media.tumblr.com/5ef0024239c44587eece36fbecc26782/tumblr_npu7pbM9FC1sfie3io1_1280.jpg) no-repeat center center fixed;
-}
  
-img {
-  background-color: red;
-  background:10% 10%;
-}
-
