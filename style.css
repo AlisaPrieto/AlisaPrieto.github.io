@@ -1,6 +1,6 @@
 body {
    background: rgb(37, 26, 92);
-   font-size: 36px;
+   font-size: 26px;
    background-image: url(http://tinypic.com?ref=9zwnt0" target="_blank"><img src="http://i57.tinypic.com/9zwnt0.jpg);
    background-size: cover;
    color: #212121;
@@ -10,7 +10,7 @@ body {
  nav a{
     color: #FFF;
     text-decoration: none;
-    background-color:#000;
+    background-color: #EAD2AC;
     padding:5px;
  }
  
