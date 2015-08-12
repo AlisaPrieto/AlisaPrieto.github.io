@@ -42,3 +42,57 @@ nav a:visited{
   color: #ED6A5A;
 }
  
+ a {
+ 
+  background-image: -webkit-linear-gradient(lawnGreen, greenYellow);
+  background-image: -moz-linear-gradient(lawnGreen, greenYellow);
+  background-image: -o-linear-gradient(lawnGreen, greenYellow);
+  background-image: linear-gradient(lawnGreen, greenYellow);
+  text-decoration: none;
+  background-color: rgb(124, 252, 0);
+  color: chocolate;
+  border: 1px solid aliceBlue;
+  text-shadow: 0 1px papayaWhip;
+  width: 250px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px;
+   font-size: 18px;
+  box-shadow: 0 1px 1px rgb(252, 241, 213), inset 0 1px 0 rgb(184 134  11);
+}
+
+iframe {
+  background-color: rgb(119, 88, 162);
+}
+a { 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+  article {
+    text-align: left;
+  }
+h2 {
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+article {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  text-align: left;
+}
+
+a:hover {
+  background-image:
+   -webkit-linear-gradient(bottom, lawnGreen, greenYellow);
+background-image:
+   -moz-linear-gradient(bottom, lawnGreen, greenYellow);
+background-image:
+   -o-linear-gradient(bottom, lawnGreen, greenYellow));
+background-image:
+   linear-gradient(to top, lawnGreen, greenYellow));
+}
+
