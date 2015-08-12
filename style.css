@@ -30,7 +30,7 @@ nav {
 }
 
 nav a{
-  color: #F4F1BB;
+  color: #5CA4A9;
   text-decoration: none;
   background-color: #E6EBE0;
   border-radius: 3px;
@@ -72,9 +72,8 @@ font-size: 24px;
      font-size: 24px;
   }
 
-a:hover {
-  background-color: #F4F1BB
+a: hover {
+  background-color: #ED6A5A;
   font-size: 24px;
-
 }
 
