@@ -16,7 +16,8 @@
  }
 
     h2,
-    p {
+    p,
+    title {
    color: #ED6A5A;
    font-family: 'PlayfairDisplay', sans-serif;
    display: block;
