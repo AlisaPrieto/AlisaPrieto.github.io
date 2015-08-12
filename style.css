@@ -1,10 +1,13 @@
 body {
-   background: rgb(37, 26, 92);
+   text-align: center;
+   background-color: #9CAFB7;
+   color: #4281A4;
+   font-family: PlayfairDisplay, sans-serif;
    font-size: 26px;
    background-image: url(http://tinypic.com?ref=9zwnt0" target="_blank"><img src="http://i57.tinypic.com/9zwnt0.jpg);
    background-size: cover;
-   color: #212121;
-   font-family: PlayfairDisplay, sans-serif;
+   
+   
   }
   
  nav a{
