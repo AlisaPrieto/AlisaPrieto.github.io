@@ -50,13 +50,13 @@ nav a: visited {
   background-color: #E6EBE0;
   color: #ED6A5A;
   border: 1px solid #5CA4A9;
-  text-shadow: 3px 1px #E6EBE0;
+  text-shadow: 3px 8px #E6EBE0;
   width: 150px;
   display: block;
   border-radius: 2px;
   padding: 4px;
    font-size: 17px;
-  box-shadow: 0 3px 2px #9BC1BC, inset 1 3px 0 #E6EBE0;
+  box-shadow: 0 3px 6px #9BC1BC, inset 4 5px 0 #E6EBE0;
 }
 
 iframe {
@@ -70,9 +70,7 @@ a {
 font-size: 24px;
 }
   article {
-   text-align: left;
    font-size: 24px
-   text-align: left;
   }
 
 a:hover {
