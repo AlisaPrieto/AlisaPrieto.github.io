@@ -1,17 +1,5 @@
 
-   h1 {
-   color: #FF9F1C;
-   font-family: 'Oswald', sans-serif;
-   display: block;
- }
- 
-    h2 {
-   color: #4281A4;
-   font-family: 'Oswald', sans-serif;
-   display: block;
- }
- 
-body {
+   body {
    text-align: center;
    background-color: #FFF5E1;
    color: #4281A4;
@@ -20,12 +8,39 @@ body {
    background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
    background-size: cover, no-repeat center center fixed;
   }
-nav a: visited {
-   color: #EAD2AC;
-}
+  
+  h1 {
+   color: #FF9F1C;
+   font-family: 'Oswald', sans-serif;
+   display: block;
+   font-size: 47px;
+ }
+
+    h2 {
+   color: #4281A4;
+   font-family: 'Oswald', sans-serif;
+   display: block;
+ }
  
 
+nav {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
 
+nav a{
+  color: #FFF;
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 0.64);
+  border-radius: 3px;
+  padding: 5px;
+  margin: 10px;
+}
+
+nav a:visited{
+  color: #FFF;
+}
  a: hover {
   background-image:
    -webkit-linear-gradient(bottom, lawnGreen, greenYellow);
@@ -50,36 +65,13 @@ background-size: cover;
 background: url(https://pp.vk.me/c622123/v622123206/45190/mm0YSE9sFZA.jpg) no-repeat center center fixed;
 }
 .about-bg {
-background: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg no-repeat center center fixed;
-}
+
 .contact-bg {
 background: url(http://40.media.tumblr.com/5ef0024239c44587eece36fbecc26782/tumblr_npu7pbM9FC1sfie3io1_1280.jpg) no-repeat center center fixed;
 }
-
-
- nav {
-    position: absolute;
-    top: 60px;
- right: 350 px;
- }
- 
- nav a {
-    color: #FFF;
-    text-decoration: none;
-    background-color: #EAD2AC;
-    padding:5px;
- }
- 
- nav a: visited{
-    color: #E6B89C;
-    text-decoration: none;
- background-color: #FFF5E1;
-  border-radius: 2px;
-  padding: 4px;
-  margin: 11px;
- }
  
 img {
   background-color: red;
   background:10% 10%;
+}
 
