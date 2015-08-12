@@ -1,6 +1,6 @@
 body {
    text-align: center;
-   background-color: #9CAFB7;
+   background-color: #FFF5E1;
    color: #4281A4;
    font-family: 26px PlayfairDisplay, sans-serif;
    font-size: 26px;
@@ -29,7 +29,7 @@ body {
  nav a:visited{
     color: #E6B89C;
     text-decoration: none;
- background-color: #FE938C;
+ background-color: #FFF5E1;
   border-radius: 2px;
   padding: 4px;
   margin: 11px;
