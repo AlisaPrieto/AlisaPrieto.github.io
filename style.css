@@ -1,12 +1,4 @@
-body {
-   text-align: center;
-   background-color: #FFF5E1;
-   color: #4281A4;
-   font-family: 26px 'PlayfairDisplay', sans-serif;
-   font-size: 26px;
-   background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
-   background-size: cover, no-repeat center center fixed;
-  }
+
    h1 {
    color: #FF9F1C;
    font-family: 'Oswald', sans-serif;
@@ -76,6 +68,15 @@ img {
   background-color: red;
   background:10% 10%;
 }
+body {
+   text-align: center;
+   background-color: #FFF5E1;
+   color: #4281A4;
+   font-family: 26px 'PlayfairDisplay', sans-serif;
+   font-size: 26px;
+   background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
+   background-size: cover, no-repeat center center fixed;
+  }
 nav a: visited {
    color: #EAD2AC;
 }
