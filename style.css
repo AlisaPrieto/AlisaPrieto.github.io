@@ -1,7 +1,7 @@
 
    body {
    text-align: center;
-   background-color: #FFF5E1;
+   background-color: #E6EBE0;
    color: #4281A4;
    font-family: 26px 'PlayfairDisplay', sans-serif;
    font-size: 26px;
@@ -10,15 +10,15 @@
   }
   
   h1 {
-   color: #FF9F1C;
+   color: #5CA4A9;
    font-family: 'Oswald', sans-serif;
-   display: block;
    font-size: 47px;
  }
 
-    h2 {
-   color: #4281A4;
-   font-family: 'Oswald', sans-serif;
+    h2,
+    p {
+   color: #ED6A5A;
+   font-family: 'PlayfairDisplay', sans-serif;
    display: block;
  }
  
@@ -39,6 +39,6 @@ nav a{
 }
 
 nav a:visited{
-  color: #2EC4B6;
+  color: #ED6A5A;
 }
  
