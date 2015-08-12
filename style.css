@@ -27,7 +27,7 @@ body {
 nav {
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 50px;
 }
 
 nav a{
@@ -36,7 +36,7 @@ nav a{
   background-color: #E6EBE0;
   border-radius: 3px;
   padding: 5px;
-  margin:8px;
+  margin: 5px;
 }
 
 nav a: visited {
@@ -48,13 +48,13 @@ nav a: visited {
   background-color: #E6EBE0;
   color: #ED6A5A;
   border: 1px solid #5CA4A9;
-  text-shadow: 3px 8px #E6EBE0;
+  text-shadow: 3px 3px #E6EBE0;
   width: 150px;
   display: block;
   border-radius: 2px;
   padding: 4px;
-   font-size: 17px;
-  box-shadow: 0 3px 6px #9BC1BC, inset 4 5px 0 #E6EBE0;
+   font-size: 22px;
+  box-shadow: 0 3px 5px #9BC1BC, inset 4 5px 0 #E6EBE0;
 }
 
 iframe {
