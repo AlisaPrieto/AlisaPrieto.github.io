@@ -6,12 +6,13 @@ body {
    font-size: 26px;
    background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
    background-size: cover, no-repeat center center fixed;
+   background-attachment: fixed;
   }
   
   h1 {
    color: #5CA4A9;
    font-family: 'Oswald', sans-serif;
-   font-size: 47px;
+   font-size: 57px;
  }
 
     h2,
@@ -20,6 +21,8 @@ body {
    color: #ED6A5A;
    font-family: 'Dancing Script', sans-serif;
    display: block;
+   font-size: 85px;
+   text-align: left;
  }
  
 
@@ -35,7 +38,7 @@ nav a{
   background-color: #E6EBE0;
   border-radius: 3px;
   padding: 5px;
-  margin: 10px;
+  margin:8px;
 }
 
 nav a: visited {
@@ -43,18 +46,17 @@ nav a: visited {
 }
  
  a {
- 
   text-decoration: none;
   background-color: #E6EBE0;
   color: #ED6A5A;
   border: 1px solid #5CA4A9;
-  text-shadow: 0 1px #E6EBE0;
+  text-shadow: 3px 1px #E6EBE0;
   width: 150px;
   display: block;
   border-radius: 2px;
   padding: 4px;
    font-size: 17px;
-  box-shadow: 0 1px 1px #9BC1BC, inset 0 1px 0 #E6EBE0;
+  box-shadow: 0 3px 2px #9BC1BC, inset 1 3px 0 #E6EBE0;
 }
 
 iframe {
@@ -69,10 +71,11 @@ font-size: 24px;
 }
   article {
    text-align: left;
-   font-size: 24px;
+   font-size: 24px
+   text-align: left;
   }
 
-a: hover {
+a:hover {
   background-color: #ED6A5A;
   font-size: 24px;
   a:hover {
