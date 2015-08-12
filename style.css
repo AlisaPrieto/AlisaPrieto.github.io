@@ -38,7 +38,7 @@ nav a{
   margin: 10px;
 }
 
-nav a:visited{
+nav a: visited {
   color: #ED6A5A;
 }
  
@@ -49,16 +49,16 @@ nav a:visited{
   color: chocolate;
   border: 1px solid aliceBlue;
   text-shadow: 0 1px papayaWhip;
-  width: 250px;
+  width: 150px;
   display: block;
   border-radius: 2px;
   padding: 4px;
    font-size: 17px;
-  box-shadow: 0 1px 1px rgb(252, 241, 213), inset 0 1px 0 rgb(184 134  11);
+  box-shadow: 0 1px 1px #9BC1BC, inset 0 1px 0 rgb(184 134  11);
 }
 
 iframe {
-  background-color: rgb(119, 88, 162);
+  background-color: #F4F1BB;
 }
 a { 
   margin-top: 10px;
