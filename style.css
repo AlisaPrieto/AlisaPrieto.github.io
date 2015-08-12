@@ -5,7 +5,7 @@ body {
    font-family: 26px 'PlayfairDisplay', sans-serif;
    font-size: 26px;
    background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
-   background-size: cover;
+   background-size: cover, no-repeat center center fixed;
   }
    h1 {
    color: #FF9F1C;
@@ -35,18 +35,18 @@ html {
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
-background-size: cover;
+background-size: cover, no-repeat center center fixed;
 }
 
 /* set background image per page */
-.home-bg {
-background: url(images/home-bg.jpg) no-repeat center center fixed;
+.index-bg {
+background: url(https://pp.vk.me/c622123/v622123206/45190/mm0YSE9sFZA.jpg) no-repeat center center fixed;
 }
 .about-bg {
-background: url(images/about.bg.jpg) no-repeat center center fixed;
+background: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg no-repeat center center fixed;
 }
 .contact-bg {
-background: url(images/contact-bg.jpg) no-repeat center center fixed;
+background: url(http://40.media.tumblr.com/5ef0024239c44587eece36fbecc26782/tumblr_npu7pbM9FC1sfie3io1_1280.jpg) no-repeat center center fixed;
 }
 
 
