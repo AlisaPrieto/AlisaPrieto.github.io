@@ -2,12 +2,18 @@ body {
    text-align: center;
    background-color: #FFF5E1;
    color: #4281A4;
-   font-family: 26px PlayfairDisplay, sans-serif;
+   font-family: 26px 'PlayfairDisplay', sans-serif;
    font-size: 26px;
    background-image: url(http://tinypic.com?ref=9zwnt0" target="_blank"><img src="http://i57.tinypic.com/9zwnt0.jpg);
    background-size: cover;
   }
    h1 {
+   color: #4281A4;
+   font-family: 'Oswald', sans-serif;
+   display: block;
+ }
+ 
+    h2 {
    color: #4281A4;
    font-family: 'Oswald', sans-serif;
    display: block;
