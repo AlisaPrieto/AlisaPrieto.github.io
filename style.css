@@ -19,20 +19,51 @@ body {
    display: block;
  }
  
+ a: hover {
+  background-image:
+   -webkit-linear-gradient(bottom, lawnGreen, greenYellow);
+background-image:
+   -moz-linear-gradient(bottom, lawnGreen, greenYellow);
+background-image:
+   -o-linear-gradient(bottom, lawnGreen, greenYellow));
+background-image:
+   linear-gradient(to top, lawnGreen, greenYellow));
+}
+
+/* sets base style for each page */
+html {
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+/* set background image per page */
+.home-bg {
+background: url(images/home-bg.jpg) no-repeat center center fixed;
+}
+.about-bg {
+background: url(images/about.bg.jpg) no-repeat center center fixed;
+}
+.contact-bg {
+background: url(images/contact-bg.jpg) no-repeat center center fixed;
+}
+
+
  nav {
     position: absolute;
     top: 60px;
  right: 350 px;
  }
  
- nav a{
+ nav a {
     color: #FFF;
     text-decoration: none;
     background-color: #EAD2AC;
     padding:5px;
  }
  
- nav a:visited{
+ nav a: visited{
     color: #E6B89C;
     text-decoration: none;
  background-color: #FFF5E1;
@@ -43,14 +74,9 @@ body {
  
 img {
   background-color: red;
-  border: 4px solid blue;
-  padding: 0 2px 4px 8px;
-  margin: 12px 6px;
-  width: 100px;
-  padding-top: 24px;
-  margin-top: 24px;
+  background:10% 10%;
 }
-nav a:visited {
+nav a: visited {
    color: #EAD2AC;
 }
  
