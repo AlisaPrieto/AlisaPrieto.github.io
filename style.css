@@ -2,14 +2,16 @@ body {
    text-align: center;
    background-color: #9CAFB7;
    color: #4281A4;
-   font-family: PlayfairDisplay, sans-serif;
+   font-family: 26px PlayfairDisplay, sans-serif;
    font-size: 26px;
    background-image: url(http://tinypic.com?ref=9zwnt0" target="_blank"><img src="http://i57.tinypic.com/9zwnt0.jpg);
    background-size: cover;
-   
-   
   }
-  
+   h1 {
+    display: block;
+ }
+ 
+ 
  nav a{
     color: #FFF;
     text-decoration: none;
@@ -21,9 +23,7 @@ body {
     color: #FFF;
  }
  
- h1 {
-    display: block;
- }
+
  
 iframe {
   background-color: white;
