@@ -1,5 +1,4 @@
-
-   body {
+body {
    text-align: center;
    background-color: #E6EBE0;
    color: #4281A4;
@@ -47,7 +46,7 @@ nav a: visited {
  
   text-decoration: none;
   background-color: #E6EBE0;
-  color: #F4F1BB;
+  color: #ED6A5A;
   border: 1px solid #5CA4A9;
   text-shadow: 0 1px #E6EBE0;
   width: 150px;
@@ -62,20 +61,20 @@ iframe {
   background-color: #F4F1BB;
 }
 a { 
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   margin-left: auto;
   margin-right: auto;
-font-size: 44px;
+font-size: 24px;
 }
   article {
     text-align: left;
-     font-size: 44px;
+     font-size: 24px;
   }
 
 a:hover {
   background-color: #F4F1BB
-  font-size: 44px;
+  font-size: 24px;
 
 }
 
