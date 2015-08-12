@@ -2,16 +2,15 @@ body {
    text-align: center;
    background-color: #E6EBE0;
    color: #4281A4;
-   font-family: 26px 'PlayfairDisplay', sans-serif;
-   font-size: 26px;
+   font-family: 26px 'Oswald', sans-serif;
    background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
-   background-size: cover, no-repeat center center fixed;
+   background-size: cover;
    background-attachment: fixed;
   }
   
   h1 {
    color: #5CA4A9;
-   font-family: 'Dancing script', cursive, sans-serif;
+   font-family: 'Oswald', sans-serif;
    font-size: 57px;
  }
 
@@ -19,7 +18,7 @@ body {
     p,
     title {
    color: #ED6A5A;
-   font-family: 'Dancing Script', cursive, sans-serif;
+   font-family: 'Dancing Script', sans-serif;
    display: block;
    font-size: 45px;
    text-align: center;
