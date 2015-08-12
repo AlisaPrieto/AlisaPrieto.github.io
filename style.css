@@ -19,7 +19,7 @@
     p,
     title {
    color: #ED6A5A;
-   font-family: 'PlayfairDisplay', sans-serif;
+   font-family: 'Dancing Script', sans-serif;
    display: block;
  }
  
@@ -33,7 +33,7 @@ nav {
 nav a{
   color: #F4F1BB;
   text-decoration: none;
-  background-color: rgba(255, 0, 0, 0.64);
+  background-color: #E6EBE0;
   border-radius: 3px;
   padding: 5px;
   margin: 10px;
@@ -47,15 +47,15 @@ nav a: visited {
  
   text-decoration: none;
   background-color: #E6EBE0;
-  color: chocolate;
-  border: 1px solid aliceBlue;
-  text-shadow: 0 1px papayaWhip;
+  color: #F4F1BB;
+  border: 1px solid #5CA4A9;
+  text-shadow: 0 1px #E6EBE0;
   width: 150px;
   display: block;
   border-radius: 2px;
   padding: 4px;
    font-size: 17px;
-  box-shadow: 0 1px 1px #9BC1BC, inset 0 1px 0 rgb(184 134  11);
+  box-shadow: 0 1px 1px #9BC1BC, inset 0 1px 0 #E6EBE0;
 }
 
 iframe {
@@ -66,13 +66,16 @@ a {
   margin-bottom: 10px;
   margin-left: auto;
   margin-right: auto;
+font-size: 44px;
 }
   article {
     text-align: left;
+     font-size: 44px;
   }
 
 a:hover {
   background-color: #F4F1BB
+  font-size: 44px;
 
 }
 
