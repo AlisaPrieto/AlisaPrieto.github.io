@@ -106,4 +106,7 @@ background-image:
    linear-gradient(to top, #F4F1BB, #5CA4A9);
 }
 
+section {
+	background: red;
+}
 
