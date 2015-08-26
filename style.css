@@ -5,6 +5,7 @@ body {
    background-image: url(http://40.media.tumblr.com/be747ff8eca4830cbb9214a224871155/tumblr_nn2n6jOzzn1sfie3io1_1280.jpg);
    background-size: cover;
    background-attachment: fixed;
+   overflow: auto;
   }
   
   h1 {
