@@ -12,6 +12,12 @@ body {
    overflow: auto;
   }
   
+section{
+	background-color: red;
+	height: 500px;
+	width: 100%;
+}
+  
   img.bg {
   min-height: 100%;
   min-width: 1024px;
@@ -102,9 +108,5 @@ background-image:
    linear-gradient(to top, #F4F1BB, #5CA4A9);
 }
 
-section{
-	background-color: red;
-	height: 500px;
-	width: 100%;
-}
+
 
