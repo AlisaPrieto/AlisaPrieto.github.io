@@ -2,7 +2,11 @@ body {
    text-align: center;
    background-color: #E6EBE0;
    color: #4281A4;
-   background-image: url(https://pp.vk.me/c317822/v317822206/1143/qW-e0MfagcU.jpg);
+   background-image: url(https://pp.vk.me/c317822/v317822206/1143/qW-e0MfagcU.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
    background-size: cover;
    background-attachment: fixed;
    overflow: auto;
