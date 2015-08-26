@@ -102,10 +102,9 @@ background-image:
    linear-gradient(to top, #F4F1BB, #5CA4A9);
 }
 
-section {
+section{
 	background-color: red;
 	height: 500px;
 	width: 100%;
-	
 }
 
