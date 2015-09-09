@@ -4,6 +4,13 @@
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.1/css/lightgallery.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.1/js/lightgallery.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery(); 
+    });
+</script>
+
 </head>
 <body>
   <nav>
@@ -17,6 +24,25 @@
  
 <section>
 <h1>My work</h1>
+
+<div id="lightgallery">
+  <a href="img/img1.jpg">
+      <img src="img/thumb1.jpg" />
+  </a>
+  <a href="img/img2.jpg">
+      <img src="img/thumb2.jpg" />
+  </a>
+  <a href="img/img2.jpg">
+      <img src="img/thumb2.jpg" />
+  </a>
+   <a href="img/img2.jpg">
+      <img src="img/thumb2.jpg" />
+  </a>
+   <a href="img/img2.jpg">
+      <img src="img/thumb2.jpg" />
+  </a>
+</div>
+
 
 <table>
 <tr>
@@ -39,7 +65,7 @@
 </body>
 
 <style>
-https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.1/css/lightgallery.css
+
  h1 {
  color: #5CA4A9;
  font-family: 'Oswald', sans-serif;
