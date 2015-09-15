@@ -1,7 +1,7 @@
 <!doctype html>
 <meta name="viewport" content="width=device-width">
 <head>
- <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+ <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
  <link href='http://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
  <link href='http://http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
  <link href='style.css' rel='stylesheet'>
@@ -22,23 +22,18 @@
 
 <h1>EXTRA CREDITs</h1>
 <h2>Code this website</h2>
-<iframe width="320" height="315" src="https://www.youtube.com/embed/J0QlPfTmwcw" frameborder="0" allowfullscreen></iframe>
+
+
+
 <h3>It's easy if you know your HTML and CSS
 <section><a href="gallery.html">See my work</a>
 </section>
 
 <div>
- <video src="https://ia700409.us.archive.org/9/items/Dementia_13.avi/Dementia13_512kb.mp4" autoplay loop muted></video>
+
 </div>
 
- <a href="http://www.last.fm/tag/electronic">Electronic music</a>
- <p>Welcome everyone to my page
- <p>You can find some cool images and music here
- <br>
-  <br>
- 
-   <br>
-<style> body {
+ <style> body {
 	margin: 0;
    text-align: center;
    background-color: #E6EBE0;
@@ -86,17 +81,15 @@ img.bg {
   
   h1 {
    color: #5CA4A9;
-   font-family: 'Oswald', sans-serif;
+   font-family: 'PT Sans', sans-serif;
    font-size: 57px;
  }
 
-    h2,
-    p,
-    title {
+    h2 {
    color: #ED6A5A;
-   font-family: 'Oswald', sans-serif;
+   font-family: 'Poiret One', cursive;
    display: block;
-   font-size: 35px;
+   font-size: 15px;
    text-align: center;
  }
  
@@ -163,4 +156,4 @@ background-image:
 </style>
 </form>
 </body>
- <footer> Created by Alisa</a>©2015</footer>
+
