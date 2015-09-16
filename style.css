@@ -64,7 +64,6 @@ img.bg {
     th {
    color: #456990;
    font-family: 'Oswald', sans-serif;
-   display: block;
    font-size: 25px;
    text-align: center;
  }
@@ -94,15 +93,14 @@ nav a:visited {
  a.menu-pills {
   text-decoration: none;
   background-color: #E4FDE1;
-   text-shadow: 3px 3px #028090;
+   text-shadow: 1px 1px #028090;
   color: #114B5F;
   border: 1px solid #E4FDE1;
   width: 150px;
-  display: block;
   border-radius: 2px;
-  padding: 4px;
+  padding: 2px;
    font-size: 22px;
-  box-shadow: 0 3px 5px #9BC1BC, inset 4 5px 0 #E6EBE0;
+  box-shadow: 0 1px 5px #9BC1BC, inset 4 3px 0 #E6EBE0;
   margin-top: 15px;
   margin-bottom: 15px;
   margin-left: auto;
