@@ -16,6 +16,7 @@ section{
 	height: 250px;
 	width: 100%;
 	position: relative;
+	overflow: auto;
   background: -webkit-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* Chrome 10+, Saf5.1+ */
   background:    -moz-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* FF3.6+ */
   background:     -ms-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* IE10 */
@@ -103,6 +104,7 @@ a {
   margin-left: auto;
   margin-right: auto;
 font-size: 24px;
+font-family: 'Oswald', sans-serif;
 }
   article {
    font-size: 24px
