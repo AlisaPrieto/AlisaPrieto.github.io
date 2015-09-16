@@ -104,8 +104,6 @@ a {
   margin-left: auto;
   margin-right: auto;
 font-size: 24px;
-font-family: 'Oswald', sans-serif;
-color: #BFE6BA;
 }
   article {
    font-size: 24px
@@ -114,6 +112,7 @@ color: #BFE6BA;
 a:hover {
   background-color: #ED6A5A;
   font-size: 24px;
+  a:hover {
   background-image:
    -webkit-linear-gradient(bottom, #F4F1BB, #5CA4A9);
 background-image:
