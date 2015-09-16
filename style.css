@@ -64,6 +64,7 @@ img.bg {
 
 nav {
   position: absolute;
+  text-decoration: none;
   top: 50px;
   right: 50px;
 }
