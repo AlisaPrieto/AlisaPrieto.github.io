@@ -84,9 +84,9 @@ nav a:visited {
  a, footage {
   text-decoration: none;
   background-color: #E6EBE0;
+   text-shadow: 3px 3px #ED6A5A;
   color: #ED6A5A;
   border: 1px solid #5CA4A9;
-  text-shadow: 3px 3px #E6EBE0;
   width: 150px;
   display: block;
   border-radius: 2px;
