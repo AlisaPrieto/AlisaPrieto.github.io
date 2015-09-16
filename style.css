@@ -138,5 +138,8 @@ video {
 width: 100%;
 }	
 
+map {
+ 	position: center;
+ }
 
 
