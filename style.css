@@ -1,7 +1,7 @@
 body {
 	margin: 0;
    text-align: center;
-   background-color: #E6EBE0;
+   background-color: #A5FFD6;
    color: #4281A4;
    background-image: urhttp://1ms.net/wr.php?url=http://hdw.datawallpaper.com/abstract/modern-tartan-flare-hd-wallpaper-338701.jpg); 
   -webkit-background-size: cover;
@@ -17,9 +17,9 @@ section{
 	width: 100%;
 	position: relative;
 	overflow: auto;
-  background: -webkit-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* IE10 */
+  background: -webkit-linear-gradient(90deg, #D3959B 10%, #A5FFD6 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #D3959B 10%, #A5FFD6 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #D3959B 10%, #A5FFD6 90%); /* IE10 */
   background:      -o-linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #D3959B 10%, #BFE6BA 90%); /* W3C */
 	
@@ -46,7 +46,7 @@ img.bg {
 }
   
   h1 {
-   color: #5CA4A9;
+   color: #A5FFD6;
    font-family: 'Oswald', sans-serif;
    font-size: 57px;
  }
@@ -54,7 +54,7 @@ img.bg {
     h2,
     p,
     title {
-   color: #ED6A5A;
+   color: #84DCC6;
    font-family: 'Oswald', sans-serif;
    display: block;
    font-size: 25px;
@@ -78,13 +78,13 @@ nav a {
 }
 
 nav a:visited {
-  color: #ED6A5A;
+  color: #FFA69E;
 }
  
  a, footage {
   text-decoration: none;
   background-color: #E6EBE0;
-   text-shadow: 3px 3px #ED6A5A;
+   text-shadow: 3px 3px #FFA69E;
   color: #ED6A5A;
   border: 1px solid #5CA4A9;
   width: 150px;
@@ -125,7 +125,7 @@ background-image:
 }
 
 div {
-height: 350px;
+height: 250px;
 }
 
 video { 
