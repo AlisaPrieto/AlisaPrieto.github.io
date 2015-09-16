@@ -12,6 +12,11 @@ body {
    overflow: auto;
   }
   
+  video { 
+width: 100%;
+}	
+
+
 section{
 	height: 250px;
 	width: 100%;
