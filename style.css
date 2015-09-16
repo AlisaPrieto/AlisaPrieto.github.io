@@ -53,7 +53,10 @@ img.bg {
 
     h2,
     p,
-    title {
+    title,
+    tr,
+    td,
+    th {
    color: #456990;
    font-family: 'Oswald', sans-serif;
    display: block;
