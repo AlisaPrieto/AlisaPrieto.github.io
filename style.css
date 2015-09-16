@@ -1,7 +1,7 @@
 body {
 	margin: 0;
    text-align: center;
-   background-color: #A5FFD6;
+   background-color: #114B5F;
    color: #4281A4;
    background-image: urhttp://1ms.net/wr.php?url=http://hdw.datawallpaper.com/abstract/modern-tartan-flare-hd-wallpaper-338701.jpg); 
   -webkit-background-size: cover;
@@ -46,7 +46,7 @@ img.bg {
 }
   
   h1 {
-   color: #A5FFD6;
+   color: #F45B69;
    font-family: 'Oswald', sans-serif;
    font-size: 57px;
  }
@@ -54,7 +54,7 @@ img.bg {
     h2,
     p,
     title {
-   color: #84DCC6;
+   color: #456990;
    font-family: 'Oswald', sans-serif;
    display: block;
    font-size: 25px;
@@ -75,18 +75,19 @@ nav a {
   border-radius: 3px;
   padding: 5px;
   margin: 5px;
+  font-family: 'Oswald', sans-serif;
 }
 
 nav a:visited {
-  color: #FFA69E;
+  color: #F45B69;
 }
  
  a, footage {
   text-decoration: none;
-  background-color: #E6EBE0;
-   text-shadow: 3px 3px #FFA69E;
-  color: #ED6A5A;
-  border: 1px solid #5CA4A9;
+  background-color: #E4FDE1;
+   text-shadow: 3px 3px #028090;
+  color: #114B5F;
+  border: 1px solid #E4FDE1;
   width: 150px;
   display: block;
   border-radius: 2px;
@@ -105,6 +106,7 @@ a {
   margin-right: auto;
 font-size: 24px;
 font-family: 'Oswald', sans-serif;
+color: #114B5F;
 }
   article {
    font-size: 24px
@@ -115,13 +117,13 @@ a:hover {
   font-size: 24px;
   a:hover {
   background-image:
-   -webkit-linear-gradient(bottom, #F4F1BB, #5CA4A9);
+   -webkit-linear-gradient(bottom, #E4FDE1, #456990);
 background-image:
-   -moz-linear-gradient(bottom, #F4F1BB, #5CA4A9);
+   -moz-linear-gradient(bottom, #E4FDE1, #456990);
 background-image:
-   -o-linear-gradient(bottom, #F4F1BB, #5CA4A9);
+   -o-linear-gradient(bottom, #E4FDE1, #456990);
 background-image:
-   linear-gradient(to top, #F4F1BB, #5CA4A9);
+   linear-gradient(to top, #E4FDE1, #5456990);
 }
 
 div {
