@@ -32,8 +32,9 @@
 
 </div>
 
- <style> body {
-	margin: 0;
+ <style> 
+ body {
+ margin: 0;
    text-align: center;
    background-color: #E6EBE0;
    color: #4281A4;
