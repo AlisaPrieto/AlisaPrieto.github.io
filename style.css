@@ -91,7 +91,7 @@ nav a:visited {
   color: #F45B69;
 }
  
- a, footage {
+ a.menu-pills {
   text-decoration: none;
   background-color: #E4FDE1;
    text-shadow: 3px 3px #028090;
@@ -103,20 +103,19 @@ nav a:visited {
   padding: 4px;
    font-size: 22px;
   box-shadow: 0 3px 5px #9BC1BC, inset 4 5px 0 #E6EBE0;
-}
-
-iframe {
-  background-color: #F4F1BB;
-}
-a { 
   margin-top: 15px;
   margin-bottom: 15px;
   margin-left: auto;
   margin-right: auto;
 font-size: 24px;
 font-family: 'Oswald', sans-serif;
-color: #114B5F;
+color: #114B5F;v  
 }
+
+iframe {
+  background-color: #F4F1BB;
+}
+
   article {
    font-size: 24px
   }
