@@ -1,1 +1,80 @@
+.nav a { 
+2   color: #5a5a5a; 
+3   font-size: 11px; 
+4   font-weight: bold; 
+5   padding: 14px 10px; 
+6   text-transform: uppercase; 
+7 } 
+8 
+ 
+9 .nav li { 
+10   display: inline; 
+11 } 
+12 
+ 
+13 .jumbotron { 
+14   background-image:url('http://goo.gl/04j7Nn'); 
+15   height: 500px; 
+16   background-repeat: no-repeat; 
+17   background-size: cover; 
+18 } 
+19 
+ 
+20 .jumbotron .container { 
+21   position: relative; 
+22   top:100px; 
+23 } 
+24 
+ 
+25 .jumbotron h1 { 
+26   color: #fff; 
+27   font-size: 48px;   
+28   font-family: 'Shift', sans-serif; 
+29   font-weight: bold; 
+30 } 
+31 
+ 
+32 .jumbotron p { 
+33   font-size: 20px; 
+34   color: #fff; 
+35 } 
+36 
+ 
+37 .learn-more { 
+38   background-color: #f7f7f7; 
+39 } 
+40 
+ 
+41 .learn-more h3 { 
+42   font-family: 'Shift', sans-serif; 
+43   font-size: 18px; 
+44   font-weight: bold; 
+45 } 
+46 
+ 
+47 .learn-more a { 
+48   color: #00b0ff; 
+49 } 
+50 
+ 
+51 .neighborhood-guides{ 
+52     background-color: #efefef; 
+53     border-bottom: 1px solid #dbdbdb; 
+54 } 
+55 
+ 
+56 .neighborhood-guides h2{ 
+57     color: #393c3d; 
+58     font-size: 24px; 
+59 
+ 
+60 } 
+61 
+ 
+62 .neighborhood-guides p{ 
+63      font-size: 15px; 
+64     margin-bottom: 13px;     
+65 } 
+ 
+
 
