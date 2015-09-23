@@ -46,14 +46,15 @@ font-family: 'Josefin Sans', sans-serif;
  li { 
    color: #8181F7;
      font-family: 'Oswald', sans-serif; 
-   font-size: 98px;   
+   font-size: 28px;   
    font-weight: bold; 
 display: block;
  } 
  
- .jumbotron p { 
+ .jumbotron p,
+ p { 
    font-size: 14px; 
-   color: #fff; 
+   color: #003366; 
 display: block;
 font-family: 'Josefin Sans', sans-serif;
  } 
