@@ -24,7 +24,7 @@ body {
   border-radius: 3px; 
 padding: 5px; 
  margin: 5px; 
- font-family: 'Oswald', sans-serif; 
+font-family: 'Indie Flower', cursive; 
 
 .nav li { 
    display: inline; 
@@ -34,7 +34,7 @@ font-family: 'Josefin Sans', sans-serif;
  p,
  a href {
  color: #CC0066;
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Indie Flower', cursive;
  }
 
  .jumbotron .container { 
@@ -49,7 +49,7 @@ font-family: 'Josefin Sans', sans-serif;
  div,
  li { 
    color: #8181F7;
-     font-family: 'Oswald', sans-serif; 
+     font-family: 'Indie Flower', cursive;
    font-size: 28px;   
    font-weight: bold; 
 display: block;
@@ -81,6 +81,7 @@ color: #8181F7;
  .learn-more a { 
    color: #8181F7; 
 display: block;
+font-family: 'Indie Flower', cursive;
  } 
  
  
