@@ -18,7 +18,8 @@ body {
   }
  
  nav a,
- a { 
+ a,
+ a href { 
   color: #5CA4A9; 
  text-decoration: none; 
  background-color: #E6EBE0; 
