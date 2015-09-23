@@ -1,4 +1,5 @@
-.nav a { 
+.nav a,
+a href { 
    color: #CCFF33; 
    font-size: 11px; 
    font-weight: bold; 
@@ -18,9 +19,8 @@ body {
   }
  
  nav a,
- a,
- a href { 
-  color: #5CA4A9; 
+ a { 
+  color: #993366; 
  text-decoration: none; 
  background-color: #E6EBE0; 
   border-radius: 3px; 
@@ -35,7 +35,7 @@ font-family: 'Josefin Sans', sans-serif;
  
  p,
  a href {
- color: #CC0066;
+ color: #6666CC;
 font-family: 'Indie Flower', cursive;
  }
 
@@ -50,7 +50,7 @@ font-family: 'Josefin Sans', sans-serif;
  .jumbotron h1,
  div,
  li { 
-   color: #8181F7;
+   color: #993366;
      font-family: 'Indie Flower', cursive;
    font-size: 28px;   
    font-weight: bold; 
@@ -60,7 +60,7 @@ display: block;
  .jumbotron p,
  p { 
    font-size: 14px; 
-   color: #003366; 
+   color: #6666CC; 
 display: block;
 font-family: 'Josefin Sans', sans-serif;
  } 
