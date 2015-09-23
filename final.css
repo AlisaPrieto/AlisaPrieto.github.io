@@ -41,7 +41,9 @@ font-family: 'Josefin Sans', sans-serif;
  } 
  
  
- .jumbotron h1 { 
+ .jumbotron h1,
+ div,
+ li { 
    color: #8181F7;
      font-family: 'Oswald', sans-serif; 
    font-size: 98px;   
