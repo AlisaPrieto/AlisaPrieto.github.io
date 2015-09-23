@@ -22,6 +22,7 @@ body {
  
 9 .nav li { 
 10   display: inline; 
+font-family: 'Josefin Sans', sans-serif;
 11 } 
 12 
  
@@ -30,6 +31,7 @@ body {
 21   position: relative; 
 22   top:100px;
 display: block;
+font-family: 'Josefin Sans', sans-serif;
 23 } 
 24 
  
@@ -46,6 +48,7 @@ display: block;
 33   font-size: 14px; 
 34   color: #fff; 
 display: block;
+font-family: 'Josefin Sans', sans-serif;
 35 } 
 36 
  
@@ -55,7 +58,7 @@ display: block;
 40 
  
 41 .learn-more h3 { 
-42   font-family: 'Shift', sans-serif; 
+42   font-family: 'Josefin Sans', sans-serif; 
 43   font-size: 13px; 
 44   font-weight: bold; 
 display: block;
@@ -70,7 +73,8 @@ display: block;
  
 51 .neighborhood-guides{ 
 52     background-color: #efefef; 
-53     border-bottom: 1px solid #dbdbdb; 
+53     border-bottom: 1px solid #dbdbdb;
+font-family: 'Josefin Sans', sans-serif;
 display: block;
 54 } 
 55 
