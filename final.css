@@ -1,106 +1,111 @@
 .nav a { 
-2   color: #CCFF33; 
-3   font-size: 11px; 
-4   font-weight: bold; 
-5   padding: 14px 10px; 
-6   text-transform: uppercase; 
-7 } 
-8 
+   color: #CCFF33; 
+   font-size: 11px; 
+   font-weight: bold; 
+   padding: 14px 10px; 
+   text-transform: uppercase; 
+ } 
+
 body {
 	margin: 0;
    text-align: center;
    background-color: #F3F781;
    color: #4281A4;
    background-image: url(http://www.saic.edu/150/sites/default/files/miami3.jpg); 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
    background-attachment: fixed;
    overflow: auto;
   }
  
-9 .nav li { 
-10   display: inline; 
+ nav a { 
+  color: #5CA4A9; 
+ text-decoration: none; 
+ background-color: #E6EBE0; 
+  border-radius: 3px; 
+padding: 5px; 
+ margin: 5px; 
+ font-family: 'Oswald', sans-serif; 
+
+.nav li { 
+   display: inline; 
 font-family: 'Josefin Sans', sans-serif;
-11 } 
-12 
+ } 
  
-13
-20 .jumbotron .container { 
-21   position: relative; 
-22   top:100px;
+ 
+
+ .jumbotron .container { 
+   position: relative; 
+   top:100px;
 display: block;
 font-family: 'Josefin Sans', sans-serif;
-23 } 
-24 
+ } 
  
-25 .jumbotron h1 { 
-26   color: #8181F7;
+ 
+ .jumbotron h1 { 
+   color: #8181F7;
      font-family: 'Oswald', sans-serif; 
-27   font-size: 98px;   
-29   font-weight: bold; 
+   font-size: 98px;   
+   font-weight: bold; 
 display: block;
-30 } 
-31 
+ } 
  
-32 .jumbotron p { 
-33   font-size: 14px; 
-34   color: #fff; 
+ .jumbotron p { 
+   font-size: 14px; 
+   color: #fff; 
 display: block;
 font-family: 'Josefin Sans', sans-serif;
-35 } 
-36 
+ } 
  
-37 .learn-more { 
-38   background-color: #99FFFF; 
-39 } 
-40 
  
-41 .learn-more h3 { 
-42   font-family: 'Josefin Sans', sans-serif; 
-43   font-size: 13px; 
-44   font-weight: bold; 
+ .learn-more { 
+   background-color: #99FFFF; 
+ } 
+ 
+ 
+ .learn-more h3 { 
+   font-family: 'Josefin Sans', sans-serif; 
+   font-size: 13px; 
+   font-weight: bold; 
 display: block;
 color: #8181F7;
-45 } 
-46 
+ } 
  
-47 .learn-more a { 
-48   color: #8181F7; 
+ 
+ .learn-more a { 
+   color: #8181F7; 
 display: block;
-49 } 
-50 
+ } 
  
-51 .neighborhood-guides{ 
-52     background-color: #efefef; 
-53     border-bottom: 1px solid #dbdbdb;
+ 
+ .neighborhood-guides{ 
+     background-color: #efefef; 
+     border-bottom: 1px solid #dbdbdb;
 font-family: 'Josefin Sans', sans-serif;
 display: block;
-54 } 
-55 
+ } 
  
-56 .neighborhood-guides h2{ 
-57     color: #393c3d; 
-58     font-size: 14px; 
+ 
+ .neighborhood-guides h2{ 
+color: #393c3d; 
+font-size: 14px; 
 display: block;
-59 
  
-60 } 
-61 
  
-62 .neighborhood-guides p{ 
-63      font-size: 15px; 
-64     margin-bottom: 13px;
+ } 
+ 
+ 
+ .neighborhood-guides p{ 
+      font-size: 15px; 
+     margin-bottom: 13px;
 font-family: 'Oswald', sans-serif;
 display: block;
-65 } 
+ } 
 section {
 	background: -webkit-linear-gradient(90deg, #456990 10%, #E4FDE1 90%); 
-27   background:    -moz-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
-28   background:     -ms-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
-29   background:      -o-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
-30   background:         linear-gradient(90deg, #456990 10%, #E4FDE1 90%); 
+   background:    -moz-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+   background:     -ms-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+   background:      -o-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+   background:         linear-gradient(90deg, #456990 10%, #E4FDE1 90%); 
 }
 }
  
