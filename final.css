@@ -31,7 +31,11 @@ padding: 5px;
 font-family: 'Josefin Sans', sans-serif;
  } 
  
- 
+ p,
+ a href {
+ color: #CC0066;
+font-family: 'Josefin Sans', sans-serif;
+ }
 
  .jumbotron .container { 
    position: relative; 
