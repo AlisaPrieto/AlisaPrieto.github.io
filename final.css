@@ -6,20 +6,26 @@
 6   text-transform: uppercase; 
 7 } 
 8 
+body {
+	margin: 0;
+   text-align: center;
+   background-color: #114B5F;
+   color: #4281A4;
+   background-image: urhttp://www.winterhavenhotelsobe.com/wp-content/uploads/2014/09/Beach-miami1.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   background-attachment: fixed;
+   overflow: auto;
+  }
  
 9 .nav li { 
 10   display: inline; 
 11 } 
 12 
  
-13 .jumbotron { 
-14   background-image:url('http://goo.gl/04j7Nn'); 
-15   height: 500px; 
-16   background-repeat: no-repeat; 
-17   background-size: cover; 
-18 } 
-19 
- 
+13
 20 .jumbotron .container { 
 21   position: relative; 
 22   top:100px; 
@@ -27,9 +33,9 @@
 24 
  
 25 .jumbotron h1 { 
-26   color: #fff; 
-27   font-size: 48px;   
-28   font-family: 'Shift', sans-serif; 
+26   color: #F45B69;
+     font-family: 'Oswald', sans-serif; 
+27   font-size: 98px;   
 29   font-weight: bold; 
 30 } 
 31 
@@ -73,7 +79,8 @@
  
 62 .neighborhood-guides p{ 
 63      font-size: 15px; 
-64     margin-bottom: 13px;     
+64     margin-bottom: 13px;
+font-family: 'Oswald', sans-serif;
 65 } 
  
 
