@@ -66,30 +66,24 @@ font-family: 'Josefin Sans', sans-serif;
  } 
  
  
- .learn-more { 
-   background-color: #99FFFF; 
- } 
+
  
- 
- .learn-more h3 { 
+h2,
+h3 { 
    font-family: 'Josefin Sans', sans-serif; 
-   font-size: 13px; 
+   font-size: 33px; 
    font-weight: bold; 
 display: block;
 color: #8181F7;
  } 
  
  
- .learn-more a { 
-   color: #8181F7; 
-display: block;
-font-family: 'Indie Flower', cursive;
- } 
+} 
  
  
  .neighborhood-guides{ 
      background-color: #efefef; 
-     border-bottom: 1px solid #dbdbdb;
+     border-bottom: 1px solid #6666CC;
 font-family: 'Josefin Sans', sans-serif;
 display: block;
  } 
