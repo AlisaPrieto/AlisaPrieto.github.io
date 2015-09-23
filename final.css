@@ -17,7 +17,8 @@ body {
    overflow: auto;
   }
  
- nav a { 
+ nav a,
+ a { 
   color: #5CA4A9; 
  text-decoration: none; 
  background-color: #E6EBE0; 
