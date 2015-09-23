@@ -28,7 +28,8 @@ body {
 13
 20 .jumbotron .container { 
 21   position: relative; 
-22   top:100px; 
+22   top:100px;
+display: block;
 23 } 
 24 
  
@@ -37,12 +38,14 @@ body {
      font-family: 'Oswald', sans-serif; 
 27   font-size: 98px;   
 29   font-weight: bold; 
+display: block;
 30 } 
 31 
  
 32 .jumbotron p { 
 33   font-size: 20px; 
 34   color: #fff; 
+display: block;
 35 } 
 36 
  
@@ -55,23 +58,27 @@ body {
 42   font-family: 'Shift', sans-serif; 
 43   font-size: 18px; 
 44   font-weight: bold; 
+display: block;
 45 } 
 46 
  
 47 .learn-more a { 
 48   color: #00b0ff; 
+display: block;
 49 } 
 50 
  
 51 .neighborhood-guides{ 
 52     background-color: #efefef; 
 53     border-bottom: 1px solid #dbdbdb; 
+display: block;
 54 } 
 55 
  
 56 .neighborhood-guides h2{ 
 57     color: #393c3d; 
 58     font-size: 24px; 
+display: block;
 59 
  
 60 } 
@@ -81,7 +88,16 @@ body {
 63      font-size: 15px; 
 64     margin-bottom: 13px;
 font-family: 'Oswald', sans-serif;
+display: block;
 65 } 
+section {
+	background: -webkit-linear-gradient(90deg, #456990 10%, #E4FDE1 90%); 
+27   background:    -moz-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+28   background:     -ms-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+29   background:      -o-linear-gradient(90deg, #456990 10%, #E4FDE1 90%);
+30   background:         linear-gradient(90deg, #456990 10%, #E4FDE1 90%); 
+}
+}
  
 
 
