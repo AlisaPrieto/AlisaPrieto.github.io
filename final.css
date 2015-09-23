@@ -1,5 +1,5 @@
 .nav a { 
-2   color: #5a5a5a; 
+2   color: #CCFF33; 
 3   font-size: 11px; 
 4   font-weight: bold; 
 5   padding: 14px 10px; 
@@ -9,7 +9,7 @@
 body {
 	margin: 0;
    text-align: center;
-   background-color: #114B5F;
+   background-color: #CCFF33;
    color: #4281A4;
    background-image: urhttp://www.winterhavenhotelsobe.com/wp-content/uploads/2014/09/Beach-miami1.jpg); 
   -webkit-background-size: cover;
@@ -34,7 +34,7 @@ display: block;
 24 
  
 25 .jumbotron h1 { 
-26   color: #F45B69;
+26   color: #CC00CC;
      font-family: 'Oswald', sans-serif; 
 27   font-size: 98px;   
 29   font-weight: bold; 
@@ -50,7 +50,7 @@ display: block;
 36 
  
 37 .learn-more { 
-38   background-color: #f7f7f7; 
+38   background-color: #99FFFF; 
 39 } 
 40 
  
